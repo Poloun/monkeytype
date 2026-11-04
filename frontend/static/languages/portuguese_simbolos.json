@@ -1,0 +1,10 @@
+{
+  "name": "portuguese_simbolos",
+  "leftToRight": true,
+  "words": [
+    "ª", "º", "°", "§", "¬", "1ª", "2º", "30°", "artigo§", "1¬",
+    "ªb", "ºc", "10°c", "paragrafo§", "teste¬",
+    ";", ":", ">", "<", "-", "_", 
+    "a;b", "x:y", "a>b", "x<y", "tecla-", "under_"
+  ]
+}
