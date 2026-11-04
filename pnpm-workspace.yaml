@@ -15,7 +15,7 @@ allowBuilds:
   esbuild: true
   msgpackr-extract: true
   protobufjs: true
-  re2: true
+  re2: false
   ssh2: true
 
 overrides:
